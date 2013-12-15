@@ -30,7 +30,7 @@ sudo apt=get install python-requests
 
 3. Go to Google Drive and add "Apps Script" to your Drive applications under "Create -> Connect more apps"
 
-4. Create a standalone Apps Script and paste in the code for christmasTreeService.gs  
+4. Create a standalone Apps Script and paste in the code for christmasTreeWebService.gs  
 Publish this script as a web service (Publish -> Deploy as web app) to run as you, and to be accessible to anonymous users.
 Copy the URL to your web app.
 
