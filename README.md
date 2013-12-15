@@ -9,7 +9,7 @@ Materials needed:
 
 Setup
 
-1. If you haven't already, install the "GPIO" module:
+1. If you haven't already, install the "GPIO" module on your RPi:
 
 from pi@raspberrypd ~ $
 
@@ -24,7 +24,7 @@ sudo apt-get update
 sudo apt-get install python-rpi.gpio
 
 
-2. If you haven't already, install the "requests" module on your Raspberry Pi
+2. If you haven't already, install the "requests" module on your RPi
 
 sudo apt=get install python-requests
 
